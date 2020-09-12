@@ -26,7 +26,7 @@ export const Content = styled.View`
   border-top-right-radius: 20px;
 `;
 
-export const Download = styled.View`
+export const Download = styled.TouchableOpacity`
   flex-direction: row;
   align-items: center;
   margin-bottom: 54px;
